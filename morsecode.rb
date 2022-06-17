@@ -25,4 +25,3 @@ def decode(str)
   end
   d_str
 end
-
